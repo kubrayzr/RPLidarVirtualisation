@@ -1,0 +1,12 @@
+Lidar verileri quality,angle,radianAngle,distance,x,y formatında saklanacak. +
+
+
+
+
+Kümeleme Algoritması araştırılacak
+
+en uzak noktaların filtrelenmesi gerekecek -
+
+https://github.com/danieldugas/pylidar2d
+https://github.com/kostaskonkk/datmo
+
